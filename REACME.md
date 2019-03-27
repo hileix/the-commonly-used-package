@@ -4,3 +4,4 @@
 
 - [cross-spawn](https://www.npmjs.com/package/cross-spawn)：跨平台的 Nodejs spawn
 - [chalk](https://www.npmjs.com/package/chalk)：使命令行中的文字加上样式
+- [fs-extra](https://www.npmjs.com/package/fs-extra)：Nodejs fs 模块增强版
